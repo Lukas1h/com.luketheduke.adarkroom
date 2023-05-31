@@ -1,6 +1,8 @@
-A Dark Room
-=========
+# A Dark Room
+Ported to KWebLaunch/Mesquito from https://github.com/doublespeakgames/adarkroom.
 
-A Minimalist Text Adventure Game
 
-[Click to play](http://rawgithub.com/Continuities/adarkroom/master/index.html)
+
+
+
+
